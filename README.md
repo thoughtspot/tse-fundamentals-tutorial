@@ -12,19 +12,6 @@ File and folder structure:
 * `./img` - contains the images for the application.
 * `./js/backups/tse-final.js` - the reference for a final, completed version of `tse.js` at the end of the tutorial
 
-## Running the application in CodeSandbox
-
-The training content has been created as a sandbox in <a href="https://codesandbox.io/s/github/thoughtspot/tse-fundamentals-tutorial?file=/index.html" target="_blank">CodeSandbox</a> to make it easy to run and test. To edit the code, simply fork the sandbox and make your changes.
-
-![codesandbox-fork](img/codesandbox-fork.png)
-
-You can either create a CodeSandbox account, or choose the "Continue without an account" option at the bottom of the dialog that appears.
-
-You can export your existing fork from CodeSandbox using the top left menu, then chooseing *File*->*Export to Zip*
-
-![codesandbox-export](img/codesandbox-save-to-zip.png)
-
-
 ## Running the application locally
 
 This is a web application and will need to be deployed to a web server, but does not require anything more than the ability to serve files over http (no additional backend to install).  
