@@ -9,7 +9,7 @@ import {
   LiveboardEmbed,
   Page,
   RuntimeFilterOp,
-  ConversationEmbed,
+  SpotterEmbed,
   SearchEmbed,
 } from "https://unpkg.com/@thoughtspot/visual-embed-sdk/dist/tsembed.es.js";
 
@@ -35,7 +35,7 @@ const onSearch = () => {
 };
 
 const onSpotter = () => {
-  // TODO replace the following with a ConversationEmbed component and render.
+  // TODO replace the following with a SpotterEmbed component and render.
   document.getElementById("embed").innerHTML =
     "<p class='warning'>Spotter not yet embedded.</p>";
 };
