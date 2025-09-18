@@ -14,7 +14,7 @@ import {
 } from "https://unpkg.com/@thoughtspot/visual-embed-sdk/dist/tsembed.es.js";
 
 // TODO - set the following for your URL if you are not using the training environment.
-const tsURL = "https://training.thoughtspot.cloud";
+const tsURL = "https://techpartners.thoughtspot.cloud/";
 
 //------------------------------ Set up TS and authenticate and show app. ----------------------------
 
